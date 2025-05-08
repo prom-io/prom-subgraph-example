@@ -6,7 +6,7 @@
 		"codegen": "graph codegen",
 		"build": "graph build",
 		"deploy": "graph deploy --node https://node.graph.prom.io/deploy --ipfs https://ipfs.graph.prom.io vprom",
-		"subgraph:create": "graph create --node https://node.graph.prom.io/deploy vprom  --access-token ",
+		"subgraph:create": "graph create --node https://node.graph.prom.io/deploy vprom",
 		"test": "graph test"
 	},
 	"dependencies": {
