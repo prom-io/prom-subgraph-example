@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "VPROM": {
+      "address": "0x2F29aa023e6d75CD7f83E8371B1B06fDd64De8Cc",
+      "startBlock": 683900
+    }
+  }
+}
